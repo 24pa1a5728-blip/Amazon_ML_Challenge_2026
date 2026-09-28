@@ -1,5 +1,5 @@
 # Amazon_ML_Challenge_2026
-🔗 Large-scale Entity Resolution &amp; Record Linkage using intelligent blocking, fuzzy matching, and LightGBM — reducing 22.77T brute-force comparisons to 347.6M candidates with 90.81% blocking recall.
+🔗 Large-scale Entity Resolution &amp; Record Linkage using intelligent blocking, fuzzy matching, and LightGBM — reducing 22.77T brute-force comparisons to 347.6M candidates with 89.81% blocking recall.
 # 🔗 Large-Scale Entity Resolution & Record Linkage
 
 > 🚀 **Scalable entity matching system for linking millions of business records across multiple data sources using intelligent blocking, fuzzy similarity features, and LightGBM.**
